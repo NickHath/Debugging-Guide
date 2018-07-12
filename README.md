@@ -67,6 +67,8 @@ To help you guys develop a debugging mind-set, I have written down the questions
 
 # Future debugging sections!
 
+Slack me if you want more debugging sections, and they'll be added!
+
 ## Axios
 
 ## Express
