@@ -3,6 +3,12 @@
 ## General
 
 ### Erorr message
+
+* What does it say?
+* Do you understand it?
+  - If not, have you checked Stack Exchange?
+* 
+
 ### Undefined variable
 ### Set-up
 
