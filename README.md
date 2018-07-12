@@ -6,7 +6,7 @@ This is an error message I got when I was first learning to program. It's pretty
 
 ![valgrind erorr message](./valgrind_error.jpg "valgrind error message")
 
-To help you guys develop a debugging mind-set, I have written down the questions you should ask yourself when you run into a tricky bug. You should consult this guide before joining the Q. When we walk over to help you, we'll be expecting answers to these questions (or at least some attempted searches using Google, StackExchange, or the docs themselves).
+To help you guys develop a debugging mind-set, I have written down the questions you should ask yourself when you run into a tricky bug. You should consult this guide before joining the Q. When the other mentors and I walk over to help you, we'll be expecting answers to these questions (or at least some attempted searches using Google, StackExchange, or the docs themselves).
 
 ## General
 
