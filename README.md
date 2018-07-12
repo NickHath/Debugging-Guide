@@ -2,7 +2,11 @@
 
 When you see a cascade of red error messages in your console, it can be overwhelming to know how to start the process of debugging them. In many cases, you'll find errors hiding behind other errors in the logical flow of your program. 
 
+This is an error message I got when I was first learning to program. It's pretty brutal.
+
 ![valgrind erorr message](./valgrind_error.jpg "valgrind error message")
+
+To help you guys develop a debugging mind-set, I have written down the questions you should ask yourself when you run into a tricky bug. You should consult this guide before joining the Q. When we walk over to help you, we'll be expecting answers to these questions (or at least some attempted searches using Google, StackExchange, or the docs themselves).
 
 ## General
 
