@@ -1,6 +1,6 @@
 # DevMtn Debugging Guide
 
-# General
+## General
 
 ### Erorr message
 
@@ -23,9 +23,9 @@
   - Is the .env file in your root directory?
 * Node/Nodemon not starting up?
   - Are you running the command in the right folder?
-  - Check your main in package.json
+  - Check your main key in package.json
 
-# Network
+## Network
 
 ### 404
 
@@ -40,7 +40,7 @@
 * Is your API key correct?
   - Test it with Postman
 
-# React
+## React
 
 ### Props
 
@@ -57,8 +57,8 @@
 
 * Check your proxy in package.json
 
-# Axios
+## Axios
 
-# Express
+## Express
 
-# Massive/SQL
+## Massive/SQL
