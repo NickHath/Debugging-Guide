@@ -1,6 +1,6 @@
 # DevMtn Debugging Guide
 
-## General
+# General
 
 ### Erorr message
 
