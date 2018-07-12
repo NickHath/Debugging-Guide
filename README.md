@@ -1,5 +1,9 @@
 # DevMtn Debugging Guide
 
+When you see a cascade of red error messages in your console, it can be overwhelming to know how to start the process of debugging them. In many cases, you'll find errors hiding behind other errors in the logical flow of your program. 
+
+![valgrind erorr message](./valgrind_error.jpg "valgrind error message")
+
 ## General
 
 ### Erorr message
@@ -56,6 +60,8 @@
 ### Cannot forward axios requests
 
 * Check your proxy in package.json
+
+# Future debugging sections!
 
 ## Axios
 
