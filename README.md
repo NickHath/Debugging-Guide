@@ -21,21 +21,44 @@
   - Did you npm install your packages?
 * No variables on process.env
   - Is the .env file in your root directory?
+* Node/Nodemon not starting up?
+  - Are you running the command in the right folder?
+  - Check your main in package.json
 
-## Network
+# Network
 
 ### 404
-### 505
+
+* Check your URL's 
+
+### 500
+
+* Is your server running?
+
 ### 401 (3rd party API)
 
-## React
+* Is your API key correct?
+  - Test it with Postman
+
+# React
 
 ### Props
+
+* What is the structure of your app's components?
+* Did you name it differently when you passed it as a prop?
+* Did you bind your methods in the correct component?
+
 ### Module not found
+
+* Check your path names when you import or require
+* Are you also exporting the code you want to be available?
+
 ### Cannot forward axios requests
 
-## Axios
+* Check your proxy in package.json
 
-## Express
+# Axios
 
-## Massive/SQL
+# Express
+
+# Massive/SQL
