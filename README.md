@@ -41,11 +41,11 @@ When you join the Q, the other mentors and I will be expecting answers to these 
 
 ### 404
 
-* Check your URL's 
+* Check your URL's, because its spelt wrong
 
 ### 500
 
-* Is your server running?
+* The error exists in your server, not the front end
 
 ### 401 (3rd party API)
 
@@ -68,6 +68,7 @@ When you join the Q, the other mentors and I will be expecting answers to these 
 ### Cannot forward axios requests
 
 * Check your proxy in package.json
+* restart `npm start`
 
 # Future debugging sections!
 
