@@ -41,7 +41,7 @@ When you join the Q, the other mentors and I will be expecting answers to these 
 
 ### Hanging request
 
-* Make sure your endpoint logic doesn't stop in any of your middleware (are you using next where you should be?)
+* Make sure your server isn't getting stuck in your middleware (are you using next where you should be?)
 
 ### 404
 
