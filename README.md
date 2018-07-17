@@ -39,6 +39,10 @@ When you join the Q, the other mentors and I will be expecting answers to these 
 
 ## Network
 
+### Hanging request
+
+* Make sure your endpoint logic doesn't stop in any of your middleware (are you using next where you should be?)
+
 ### 404
 
 * Check your URL's, because its spelt wrong
